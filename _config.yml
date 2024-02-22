@@ -3,15 +3,15 @@ image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
 # UI configs
-title: "Shots by Pushpinder Pal Singh"
-subtitle: "A chapter from my life"
-author:  "Pushpinder Pal Singh"
+title: "Soma Details"
+subtitle: "Elevation with new media design"
+author:  "Riley Soma Fires"
 header:
- title: "Shots"
- subtitle: "by Pushpinder Pal Singh"
+ title: "Soma Details"
+ subtitle: "Riley Soma Fires"
 footer:
  name: "Hello World! 👋'"
- bio: "I’m a software developer who writes. And 3D print. And photograph. Basically, following my curiosity and trying to find my purpose on this beautiful big blue ball. Learn more at: https://swiftlysingh.com"
+ bio: "Founder, game director, and lead programmer for Swarm & Swarm 2 by Riley Soma and Eddy Katt. New medias creative and editor. VR/XR, Digital 3D, 360 Panorama, Boutique Neural Net Shaders. Ask me about my math."
 social_urls:
-  instagram: "https://www.instagram.com/pushpinderpalsingh_/"
-  twitter: "https://twitter.com/pushpinderpal_"
+  instagram: "https://www.instagram.com/rileysoma"
+  twitter: "https://twitter.com/"
