@@ -1400,7 +1400,7 @@
 		-ms-user-select: none;
 		-webkit-user-select: none;
 		background: #1f2224;
-		bottom: -1em;
+		bottom: auto;
 		height: 5em;
 		left: 0;
 		line-height: 4em;
