@@ -5,31 +5,31 @@
 			default:		(
 				rows:		2,
 				columns:	4,
-				pad:		0.5,
+				pad:		10,
 				minHeight:	20em
 			),
 			xlarge:			(
 				rows:		2,
 				columns:	3,
-				pad:		0.5,
+				pad:		10,
 				minHeight:	20em
 			),
 			large:			(
 				rows:		2,
 				columns:	2,
-				pad:		0.5,
+				pad:		10,
 				minHeight:	20em
 			),
 			medium:			(
 				rows:		3,
 				columns:	2,
-				pad:		0.5,
+				pad:		10,
 				minHeight:	18em
 			),
 			xsmall:			(
 				rows:		2,
 				columns:	1,
-				pad:		0.5,
+				pad:		10,
 				minHeight:	18em
 			)
 		)
@@ -64,18 +64,18 @@
 
 // Palette.
 	$palette: (
-		bg:					#D9D9D9,
+		bg:					#FAF9F6,
 		bg-alt:				#A4A5A6,
-		bg-overlay:			transparentize(#a0a0a1, 0.75),
-		bg-overlay-alt:		transparentize(#a0a0a1, 0.5),
-		bg-ie-overlay:		transparentize(#a0a0a1, 0.45),
-		bg-ie-overlay-alt:	transparentize(#a0a0a1, 0.2),
-		fg:					#a0a0a1,
-		fg-bold:			#242629,
-		fg-medium:			#505051,
-		fg-light:			#707071,
-		border:				#D9D9D9,
-		border-bg:			#D9D9D9,
-		border-bg-alt:		#D9D9D9,
+		bg-overlay:			transparentize(#D6D5D2, 0.75),
+		bg-overlay-alt:		transparentize(#D6D5D2, 0.5),
+		bg-ie-overlay:		transparentize(#D6D5D2, 0.45),
+		bg-ie-overlay-alt:	transparentize(#D6D5D2, 0.2),
+		fg:					#D6D5D2,
+		fg-bold:			#5C5B5A,
+		fg-medium:			#858482,
+		fg-light:			#ADADAA,
+		border:				#FAF9F6,
+		border-bg:			#FAF9F6,
+		border-bg-alt:		#FAF9F6,
 		accent1:			#34a58e
 	);
