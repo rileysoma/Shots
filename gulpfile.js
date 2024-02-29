@@ -2,7 +2,7 @@
 
 var gulp = require('gulp');
 var imageResize = require('gulp-image-resize');
-var sass = require('gulp-sass');
+var sass = require('gulp-sass')(require('sass'));
 var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
 var del = require('del');
